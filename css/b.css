@@ -1,0 +1,21 @@
+.bcs00008
+{
+background-color:#ffffff;
+height:4225.9775390625px;
+width:320px;
+padding:0px;
+display:-webkit-box;
+display:-ms-flexbox;
+display:flex;
+-webkit-box-orient:horizontal;
+-webkit-box-direction:normal;
+    -ms-flex-direction:row;
+        flex-direction:row;
+-webkit-box-pack:start;
+    -ms-flex-pack:start;
+        justify-content:flex-start;
+-webkit-box-align:start;
+    -ms-flex-align:start;
+        align-items:flex-start;
+position:relative;
+}

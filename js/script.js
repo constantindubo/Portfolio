@@ -1,0 +1,1 @@
+let burgerswitch=document.getElementById("burgerswitch"),menu=document.getElementById("nav_bar");burgerswitch.addEventListener("click",(function(){burgerswitch.classList.toggle("menu__on")})),burgerswitch.addEventListener("click",(function(){menu.classList.toggle("nav_bar__expand")}));
